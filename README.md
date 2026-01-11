@@ -1,6 +1,15 @@
-Remotion adaptation of the SpaceDust component at https://github.com/winkerVSbecks/3d-particle-effects-demo
+## Research Context
+
+This project explores real-time particle-based visual effects
+and procedural animation using Three.js and Remotion.
+
+Parts of this work relate to experiments on animation pipelines
+and visual effect generation, which inform our ongoing research
+on AI-assisted animation production.
 
 ## Commands
+
+Remotion adaptation of the SpaceDust component at https://github.com/winkerVSbecks/3d-particle-effects-demo
 
 **Start Preview**
 
